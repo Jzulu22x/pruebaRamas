@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "prW1My0ENcGg5JEx2cwo8t70Hb0UUSql+bUrp1fg5ZMSMyYaZwkOa/aqGHmTCIQ1BjpUfy6JPyLiqgtCqmM7hg==",
+  "success": true,
+  "projectFilePath": "/home/jzulu22x/Escritorio/pruebaRama/pruebaRama.csproj",
+  "expectedPackageFiles": [
+    "/home/jzulu22x/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/jzulu22x/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/jzulu22x/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
